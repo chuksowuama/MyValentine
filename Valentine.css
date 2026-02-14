@@ -1,0 +1,44 @@
+body{
+  background-color: #FFF1F5;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vals{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 5px #E6396F;
+    background-color: #FADADD;
+}
+.vals img{
+  width: 200px;
+  height: 200px;
+}
+
+.valtext{
+ color: #2B2B2B;
+}
+
+.buttons{
+  display: flex;
+  gap: 30px;
+}
+.buttons button{
+  cursor: pointer;
+  width: 100px;
+  padding: 5px;
+  background-color: #E6396F;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 10px;
+}
+.yes:hover{
+background-color:#C92A5A ;
+}
+.no:hover{
+background-color:#C92A5A ;
+}
