@@ -1,7 +1,7 @@
 const rejectionGifs = [
-  "Cry Reaction GIF by iQiyi.gif",
-  "Cry Crying GIF.gif",
-  "Sad Baby GIF.gif",
+  "gif/Cry1.gif",
+  "gif/Cry2.gif",
+  "gif/cry4.gif",
 ];
 const rejectText = [
   "Please nah i will buy you ice cream",
@@ -10,9 +10,9 @@ const rejectText = [
 ];
 
 const acceptanceGif = [
-  "Happy Eeeee GIF.gif",
-  "Happy Sesame Street GIF by Muppet Wiki.gif",
-  "Happy Shaquille O Neal GIF by Papa Johns.gif",
+  "gif/Happy1.gif",
+  "gif/Happy2.gif",
+  "gif/Happy3.gif",
 ];
 
 const acceptText = [
